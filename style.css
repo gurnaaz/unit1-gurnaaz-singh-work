@@ -1,4 +1,12 @@
-body{
-    background-color: aqua;
+.myMore{
+position: absolute;
+top: 7px;
 
+}
+
+    
+.myGurnaz{
+position: absolute;
+top: 30px;
+left: 40px;
 }
